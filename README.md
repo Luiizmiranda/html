@@ -4,4 +4,4 @@
 <br>
 <br>
 
-<a hred="https://luiizmiranda.git.hub.io/html/desafio12/index"taget="_blank">Cordel Moderno 
+<a href="https://luiizmiranda.git.hub.io/html/desafio12/index">Cordel Moderno </a>
